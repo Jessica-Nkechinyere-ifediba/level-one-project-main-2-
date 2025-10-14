@@ -95,14 +95,6 @@
     flex: 1;
     }
 
-    @keyframes hero-image
-    from {
-        transform: translate(0px,0px);
-    }
-    to {
-        transform: translate(1750px,0px);
-
-
 .hero-image img {
     width: 100%;
     width: 480px;
